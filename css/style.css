@@ -86,3 +86,7 @@
     text-align: center;
     width: 146px;
 }
+.post__container {
+     display: flex;
+     justify-content: space-between;
+}
